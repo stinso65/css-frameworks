@@ -75,3 +75,7 @@
   p {
     text-align: center;
   }
+  blockquote {
+    max-width: 500px;
+    display: inline-flex;
+  }
