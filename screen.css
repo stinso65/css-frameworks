@@ -63,6 +63,9 @@
   body {
     padding-left: 10px;
   }
+  nav {
+    background-color: #04AA6D;
+  }
   h3 {
     text-align: center;
   }
