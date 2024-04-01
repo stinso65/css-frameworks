@@ -48,3 +48,16 @@
     text-decoration: none;
     font-size: 18px;
   }
+  .timeline li {
+    list-style-image: url("bear.png");
+  }
+  h1 {
+    color:#04AA6D;
+    text-align: center;
+  }
+  body {
+    padding-left: 10px;
+  }
+  h5 {
+    font-size: smaller;
+  }
